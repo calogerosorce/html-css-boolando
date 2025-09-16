@@ -186,12 +186,12 @@ footer {
 .solo {
     background-color: green;
     color: white;
-    position: relative;
+    position: absolute;
     height: 20px;
     width: 70px;
     font-size: 15px;
     text-align: center;
-    top: -50px;
+    top: 450px;
     left: 0px;
 }
 
@@ -200,8 +200,8 @@ footer {
     color: white;
     height: 20px;
     width: 45px;
-    position: relative;
-    top: -50px;
+    position: absolute;
+    top: 450px;
     left: 0px;
     font-size: 15px;
     text-align: center;
@@ -210,12 +210,12 @@ footer {
 .sostenibilità {
     background-color: green;
     color: white;
-    position: relative;
+    position: absolute;
     height: 20px;
     width: 70px;
     font-size: 15px;
     text-align: center;
-    top: -70px;
+    top: 450px;
     left: 50px;
 }
 
