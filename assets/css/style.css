@@ -165,8 +165,8 @@ footer {
     width: 70px;
     font-size: 15px;
     text-align: center;
-    top: 389px;
-    left: -397px;
+    top: -50px;
+    left: 0px;
 }
 
 
@@ -178,9 +178,48 @@ footer {
     width: 70px;
     font-size: 15px;
     text-align: center;
-    top: 389px;
-    left: -380px;
+    top: -50px;
+    left: 50px;
 } */
+
+
+.solo {
+    background-color: green;
+    color: white;
+    position: relative;
+    height: 20px;
+    width: 70px;
+    font-size: 15px;
+    text-align: center;
+    top: -50px;
+    left: 0px;
+}
+
+.percentuale {
+    background-color: red;
+    color: white;
+    height: 20px;
+    width: 45px;
+    position: relative;
+    top: -50px;
+    left: 0px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.sostenibilità {
+    background-color: green;
+    color: white;
+    position: relative;
+    height: 20px;
+    width: 70px;
+    font-size: 15px;
+    text-align: center;
+    top: -70px;
+    left: 50px;
+}
+
+
 
 
 .levis2,
